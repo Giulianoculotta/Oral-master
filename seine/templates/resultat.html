@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Résultats de la recherche</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Résultats de la recherche</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Nom de la station</th>  
+        <th>Espèce</th>  
+      </tr>
+    </thead>
+    <tbody>
+	{% for row in poisson.itertuples() %}  
+	<tr>
+    	<td>{{ row.nom_station_commune }}</td>
+    	<td>{{ row.espece }}</td>
+  	</tr>
+{% endfor %}
+
+    </tbody>
+  </table>
+</body>
+</html>

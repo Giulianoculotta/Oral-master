@@ -1,0 +1,683 @@
+nom_station_commune,espece
+Station numero 1 - MEUDON,Bouviere
+Station numero 1 - MEUDON,Bouviere
+Station numero 1 - MEUDON,Bouviere
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Goujon
+Station numero 1 - MEUDON,Hotu
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Rotengle
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Breme sp.
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Perche soleil
+Station numero 2 - SEVRES,Perche soleil
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Vandoise
+Station numero 2 - SEVRES,Vandoise
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Barbeau fluviatile
+Station numero 3 - BOULOGNE BILLANCOURT,Breme sp.
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Goujon
+Station numero 3 - BOULOGNE BILLANCOURT,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Rotengle
+Station numero 3 - BOULOGNE BILLANCOURT,Silure glane
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Brochet
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Silure
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Barbeau fluviatile
+Station numero 5 - LEVALLOIS PERRET,Barbeau fluviatile
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Barbeau fluviatile
+Station numero 6 - VILLENEUVE LA GARENNE,Barbeau fluviatile
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Hotu
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Rotengle
+Station numero 6 - VILLENEUVE LA GARENNE,Vandoise
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Barbeau fluviatile
+Station numero 7 - NANTERRE,Bouviere
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Hotu
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche commune
+Station numero 1bis - ISSY LES MOULINEAUX,Ablette
+Station numero 1bis - ISSY LES MOULINEAUX,Ablette
+Station numero 1bis - ISSY LES MOULINEAUX,Perche commune
+Station numero 1bis - ISSY LES MOULINEAUX,Perche commune
+Station numero 1bis - ISSY LES MOULINEAUX,Perche soleil
+Station numero 1bis - ISSY LES MOULINEAUX,Perche soleil
+Station numero 1bis - ISSY LES MOULINEAUX,Rotengle
+Station numero 1bis - ISSY LES MOULINEAUX,Silure glane
+Station numero 6bis - NANTERRE,Chabot
+Station numero 6bis - NANTERRE,Gardon
+Station numero 6bis - NANTERRE,Rotengle
+Station numero 6bis - NANTERRE,Vandoise
+Station numero 6bis - NANTERRE,Vandoise
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Gardon
+Station Estacade des Mariniers - GENNEVILLIERS,Vandoise
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Gardon
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Gobie tache noire
+Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,Chevesne
+Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,Rotengle
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Barbeau fluviatile
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Hotu
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche soleil
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Silure
+Station numero 1 - MEUDON,Vandoise
+Station numero 1 - MEUDON,Vandoise
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Bouviere
+Station numero 2 - SEVRES,Breme sp.
+Station numero 2 - SEVRES,Breme sp.
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Perche soleil
+Station numero 2 - SEVRES,Vairon
+Station numero 2 - SEVRES,Vandoise
+Station numero 2 - SEVRES,Vandoise
+Station numero 2 - SEVRES,Vandoise
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Goujon
+Station numero 3 - BOULOGNE BILLANCOURT,Goujon
+Station numero 3 - BOULOGNE BILLANCOURT,Gremille
+Station numero 3 - BOULOGNE BILLANCOURT,Hotu
+Station numero 3 - BOULOGNE BILLANCOURT,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Perche soleil
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Barbeau fluviatile
+Station numero 4 - NEUILLY SUR SEINE,Breme sp.
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Goujon
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Vandoise
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Hotu
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Sandre
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Barbeau fluviatile
+Station numero 6 - VILLENEUVE LA GARENNE,Barbeau fluviatile
+Station numero 6 - VILLENEUVE LA GARENNE,Bouviere
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Rotengle
+Station numero 6 - VILLENEUVE LA GARENNE,Rotengle
+Station numero 6 - VILLENEUVE LA GARENNE,Sandre
+Station numero 6 - VILLENEUVE LA GARENNE,Vandoise
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Barbeau fluviatile
+Station numero 7 - NANTERRE,Barbeau fluviatile
+Station numero 7 - NANTERRE,Bouviere
+Station numero 7 - NANTERRE,Breme sp.
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Hotu
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche soleil
+Station numero 7 - NANTERRE,Rotengle
+Station numero 7 - NANTERRE,Vandoise
+Station numero 7 - NANTERRE,Vandoise
+Station numero 7 - NANTERRE,Sandre
+Station numero 7 - NANTERRE,Silure
+Station numero 7 - NANTERRE,Tanche
+Station numero 7 - NANTERRE,Tanche
+Station numero 1bis - ISSY LES MOULINEAUX,Ablette
+Station numero 1bis - ISSY LES MOULINEAUX,Barbeau fluviatile
+Station numero 1bis - ISSY LES MOULINEAUX,Chevesne
+Station numero 1bis - ISSY LES MOULINEAUX,Gardon
+Station numero 1bis - ISSY LES MOULINEAUX,Hotu
+Station numero 1bis - ISSY LES MOULINEAUX,Rotengle
+Station numero 1bis - ISSY LES MOULINEAUX,Rotengle
+Station numero 1bis - ISSY LES MOULINEAUX,Vandoise
+Station numero 6bis - NANTERRE,Bouviere
+Station numero 6bis - NANTERRE,Gardon
+Station numero 6bis - NANTERRE,Perche commune
+Station numero 6bis - NANTERRE,Perche commune
+Station numero 6bis - NANTERRE,Perche soleil
+Station numero 6bis - NANTERRE,Sandre
+Station numero 6bis - NANTERRE,Silure glane
+Station numero 6bis - NANTERRE,Vandoise
+Station Quai de Dion Bouton - PUTEAUX,Perche commune
+Station Diffuseur Paul Bert - COLOMBES,Chabot
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Chabot
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Chevesne
+Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,Chabot
+Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,Gardon
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Breme sp.
+Station numero 1 - MEUDON,Breme sp.
+Station numero 1 - MEUDON,Breme sp.
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Goujon
+Station numero 1 - MEUDON,Hotu
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche soleil
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Sandre
+Station numero 1 - MEUDON,Silure
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Bouviere
+Station numero 2 - SEVRES,Brochet
+Station numero 2 - SEVRES,Breme sp.
+Station numero 2 - SEVRES,Breme sp.
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Gremille
+Station numero 2 - SEVRES,Loche franche
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Perche soleil
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Vandoise
+Station numero 2 - SEVRES,Vandoise
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Breme sp.
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Hotu
+Station numero 3 - BOULOGNE BILLANCOURT,Rotengle
+Station numero 3 - BOULOGNE BILLANCOURT,Silure glane
+Station numero 4 - NEUILLY SUR SEINE,Barbeau fluviatile
+Station numero 4 - NEUILLY SUR SEINE,Barbeau fluviatile
+Station numero 4 - NEUILLY SUR SEINE,Barbeau fluviatile
+Station numero 4 - NEUILLY SUR SEINE,Black bass
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Goujon
+Station numero 4 - NEUILLY SUR SEINE,Goujon
+Station numero 4 - NEUILLY SUR SEINE,Goujon
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Rotengle
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Rotengle
+Station numero 5 - LEVALLOIS PERRET,Vandoise
+Station numero 5 - LEVALLOIS PERRET,Vandoise
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Barbeau fluviatile
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Rotengle
+Station numero 6 - VILLENEUVE LA GARENNE,Sandre
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Barbeau fluviatile
+Station numero 7 - NANTERRE,Bouviere
+Station numero 7 - NANTERRE,Bouviere
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche soleil
+Station numero 1bis - ISSY LES MOULINEAUX,Ablette
+Station numero 1bis - ISSY LES MOULINEAUX,Ablette
+Station numero 1bis - ISSY LES MOULINEAUX,Barbeau fluviatile
+Station numero 1bis - ISSY LES MOULINEAUX,Chabot
+Station numero 1bis - ISSY LES MOULINEAUX,Chevesne
+Station numero 1bis - ISSY LES MOULINEAUX,Gardon
+Station numero 1bis - ISSY LES MOULINEAUX,Gardon
+Station numero 1bis - ISSY LES MOULINEAUX,Perche commune
+Station numero 1bis - ISSY LES MOULINEAUX,Perche commune
+Station numero 1bis - ISSY LES MOULINEAUX,Vandoise
+Station numero 1bis - ISSY LES MOULINEAUX,Vandoise
+Station numero 6bis - NANTERRE,Barbeau fluviatile
+Station numero 6bis - NANTERRE,Bouviere
+Station numero 6bis - NANTERRE,Chabot
+Station numero 6bis - NANTERRE,Chevesne
+Station numero 6bis - NANTERRE,Chevesne
+Station numero 6bis - NANTERRE,Goujon
+Station numero 6bis - NANTERRE,Perche commune
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Perche commune
+Station Diffuseur Paul Bert - COLOMBES,Bouviere
+Station Diffuseur Paul Bert - COLOMBES,Goujon
+Station Estacade des Mariniers - GENNEVILLIERS,Gardon
+Station Estacade des Mariniers - GENNEVILLIERS,Perche commune
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Tanche
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Barbeau fluviatile
+Station numero 1 - MEUDON,Breme sp.
+Station numero 1 - MEUDON,Breme sp.
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Goujon
+Station numero 1 - MEUDON,Hotu
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Silure
+Station numero 1 - MEUDON,Vandoise
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Bouviere
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Rotengle
+Station numero 2 - SEVRES,Vandoise
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Ablette
+Station numero 3 - BOULOGNE BILLANCOURT,Barbeau fluviatile
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chabot
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Rotengle
+Station numero 3 - BOULOGNE BILLANCOURT,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Goujon
+Station numero 4 - NEUILLY SUR SEINE,Hotu
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Perche soleil
+Station numero 4 - NEUILLY SUR SEINE,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Silure
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Barbeau fluviatile
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Goujon
+Station numero 5 - LEVALLOIS PERRET,Hotu
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Vandoise
+Station numero 5 - LEVALLOIS PERRET,Vandoise
+Station numero 6 - VILLENEUVE LA GARENNE,Ablette
+Station numero 6 - VILLENEUVE LA GARENNE,Brochet
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Hotu
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Perche soleil
+Station numero 6 - VILLENEUVE LA GARENNE,Perche soleil
+Station numero 6 - VILLENEUVE LA GARENNE,Sandre
+Station numero 6 - VILLENEUVE LA GARENNE,Vandoise
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Barbeau fluviatile
+Station numero 7 - NANTERRE,Breme sp.
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Goujon
+Station numero 7 - NANTERRE,Gremille
+Station numero 7 - NANTERRE,Hotu
+Station numero 7 - NANTERRE,Ide melanote
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche commune
+Station numero 7 - NANTERRE,Perche soleil
+Station numero 7 - NANTERRE,Rotengle
+Station numero 7 - NANTERRE,Rotengle
+Station numero 1bis - ISSY LES MOULINEAUX,Bouviere
+Station numero 1bis - ISSY LES MOULINEAUX,Chabot
+Station numero 1bis - ISSY LES MOULINEAUX,Chevesne
+Station numero 1bis - ISSY LES MOULINEAUX,Chevesne
+Station numero 1bis - ISSY LES MOULINEAUX,Gardon
+Station numero 1bis - ISSY LES MOULINEAUX,Goujon
+Station numero 1bis - ISSY LES MOULINEAUX,Goujon
+Station numero 1bis - ISSY LES MOULINEAUX,Goujon
+Station numero 1bis - ISSY LES MOULINEAUX,Hotu
+Station numero 1bis - ISSY LES MOULINEAUX,Rotengle
+Station numero 6bis - NANTERRE,Ablette
+Station numero 6bis - NANTERRE,Barbeau fluviatile
+Station numero 6bis - NANTERRE,Chabot
+Station numero 6bis - NANTERRE,Chevesne
+Station numero 6bis - NANTERRE,Gardon
+Station numero 6bis - NANTERRE,Gardon
+Station numero 6bis - NANTERRE,Hotu
+Station Quai de Dion Bouton - PUTEAUX,Gardon
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Chevesne
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Rotengle
+Station Diffuseur Paul Bert - COLOMBES,Chevesne
+Station Estacade des Mariniers - GENNEVILLIERS,Chevesne
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Barbeau fluviatile
+Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,Perche soleil
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Ablette
+Station numero 1 - MEUDON,Barbeau fluviatile
+Station numero 1 - MEUDON,Breme sp.
+Station numero 1 - MEUDON,Chabot
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Chevesne
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Gardon
+Station numero 1 - MEUDON,Goujon
+Station numero 1 - MEUDON,Goujon
+Station numero 1 - MEUDON,Goujon
+Station numero 1 - MEUDON,Gremille
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche commune
+Station numero 1 - MEUDON,Perche soleil
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Rotengle
+Station numero 1 - MEUDON,Vandoise
+Station numero 1 - MEUDON,Vandoise
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Ablette
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Barbeau fluviatile
+Station numero 2 - SEVRES,Bouviere
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chabot
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Chevesne
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Gardon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Goujon
+Station numero 2 - SEVRES,Gremille
+Station numero 2 - SEVRES,Hotu
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Perche commune
+Station numero 2 - SEVRES,Perche commune
+Station numero 3 - BOULOGNE BILLANCOURT,Breme sp.
+Station numero 3 - BOULOGNE BILLANCOURT,Breme sp.
+Station numero 3 - BOULOGNE BILLANCOURT,Breme sp.
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Chevesne
+Station numero 3 - BOULOGNE BILLANCOURT,Gardon
+Station numero 3 - BOULOGNE BILLANCOURT,Gremille
+Station numero 3 - BOULOGNE BILLANCOURT,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Ablette
+Station numero 4 - NEUILLY SUR SEINE,Barbeau fluviatile
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chabot
+Station numero 4 - NEUILLY SUR SEINE,Chevesne
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Gardon
+Station numero 4 - NEUILLY SUR SEINE,Goujon
+Station numero 4 - NEUILLY SUR SEINE,Perche commune
+Station numero 4 - NEUILLY SUR SEINE,Rotengle
+Station numero 4 - NEUILLY SUR SEINE,Vandoise
+Station numero 5 - LEVALLOIS PERRET,Ablette
+Station numero 5 - LEVALLOIS PERRET,Barbeau fluviatile
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chabot
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Chevesne
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Gardon
+Station numero 5 - LEVALLOIS PERRET,Goujon
+Station numero 5 - LEVALLOIS PERRET,Hotu
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Perche commune
+Station numero 5 - LEVALLOIS PERRET,Vandoise
+Station numero 6 - VILLENEUVE LA GARENNE,Breme sp.
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chabot
+Station numero 6 - VILLENEUVE LA GARENNE,Chevesne
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Gardon
+Station numero 6 - VILLENEUVE LA GARENNE,Goujon
+Station numero 6 - VILLENEUVE LA GARENNE,Hotu
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Perche commune
+Station numero 6 - VILLENEUVE LA GARENNE,Sandre
+Station numero 6 - VILLENEUVE LA GARENNE,Vandoise
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Ablette
+Station numero 7 - NANTERRE,Barbeau fluviatile
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chabot
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Chevesne
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Gardon
+Station numero 7 - NANTERRE,Rotengle
+Station numero 7 - NANTERRE,Rotengle
+Station numero 7 - NANTERRE,Vandoise
+Station numero 1bis - ISSY LES MOULINEAUX,Chevesne
+Station numero 1bis - ISSY LES MOULINEAUX,Chevesne
+Station numero 1bis - ISSY LES MOULINEAUX,Gardon
+Station numero 1bis - ISSY LES MOULINEAUX,Perche commune
+Station numero 1bis - ISSY LES MOULINEAUX,Perche soleil
+Station numero 1bis - ISSY LES MOULINEAUX,Rotengle
+Station numero 1bis - ISSY LES MOULINEAUX,Rotengle
+Station numero 1bis - ISSY LES MOULINEAUX,Vandoise
+Station numero 6bis - NANTERRE,Chevesne
+Station numero 6bis - NANTERRE,Goujon
+Station Quai de Dion Bouton - PUTEAUX,Ablette
+Station Quai de Dion Bouton - PUTEAUX,Chabot
+Station Quai de Dion Bouton - PUTEAUX,Chevesne
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Breme bordeliere
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Chabot
+Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,Vandoise
+Station Diffuseur Paul Bert - COLOMBES,Gardon
+Station Diffuseur Paul Bert - COLOMBES,Rotengle
+Station Estacade des Mariniers - GENNEVILLIERS,Ablette
+Station Estacade des Mariniers - GENNEVILLIERS,Chabot
+Station Estacade des Mariniers - GENNEVILLIERS,Goujon
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Bouviere
+Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,Goujon

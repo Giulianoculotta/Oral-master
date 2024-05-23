@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recherche de films</title>
+</head>
+<body>
+    <h1>Recherche de films</h1>
+    <form action="/" method="POST">
+        <label for="genre">Genre :</label>
+        <select name="genre" id="genre">
+            {% for genre in questions["Genre"] %}
+                <option value="{{ genre }}">{{ genre }}</option>
+            {% endfor %}
+        </select><br><br>
+        <label for="acteur">Acteur principal :</label>
+        <select name="acteur" id="acteur">
+            {% for acteur in questions["Acteur principal"] %}
+                <option value="{{ acteur }}">{{ acteur }}</option>
+            {% endfor %}
+        </select><br><br>
+        <label for="periode">Période :</label>
+        <select name="periode" id="periode">
+            {% for periode in questions["Période"] %}
+                <option value="{{ periode }}">{{ periode }}</option>
+            {% endfor %}
+        </select><br><br>
+        <input type="submit" value="Rechercher">
+    </form>
+</body>
+</html>

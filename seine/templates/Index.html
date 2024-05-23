@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recherche de poissons</title>
+</head>
+<body>
+  <h1>Recherche de poissons</h1>
+  <form action="/" method="POST">
+    <label for="station">Station :</label>
+    <select name="station" id="station">
+      {% for station in questions["station"] %}
+        <option value="{{ station }}">{{ station }}</option>
+      {% endfor %}
+    </select><br><br>
+    <label for="espece">Espèce :</label>
+    <select name="espece" id="espece">
+      {% for espece in questions["espece"] %}
+        <option value="{{ espece }}">{{ espece }}</option>
+      {% endfor %}
+    </select><br><br>
+    <input type="submit" value="Rechercher">
+  </form>
+</body>
+</html>

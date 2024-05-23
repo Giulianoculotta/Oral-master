@@ -1,0 +1,683 @@
+﻿;id_station;nom_station_commune;nom_station;commune;espece;abreviation;nb_individus;,id_station,nom_station_commune,commune,espece,abreviation,nb_individus;;;;;;;;annee
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Bouviere;BOU;2;2012,id_station,Station numero 1 - MEUDON,MEUDON,Bouviere,BOU,2;;;;;;;;2012
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Bouviere;BOU;4;2013,id_station,Station numero 1 - MEUDON,MEUDON,Bouviere,BOU,4;;;;;;;;2013
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Bouviere;BOU;1;2022,id_station,Station numero 1 - MEUDON,MEUDON,Bouviere,BOU,1;;;;;;;;2022
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;10;2009,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,10;;;;;;;;2009
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;19;2012,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,19;;;;;;;;2012
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;42;2014,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,42;;;;;;;;2014
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;2;2016,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,2;;;;;;;;2016
+2010;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;12;2010,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,12;;;;;;;;2010
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;35;2019,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,35;;;;;;;;2019
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;10;2022,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,10;;;;;;;;2022
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;163;2014,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,163;;;;;;;;2014
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;105;2020,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,105;;;;;;;;2020
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Goujon;GOU;6;2019,id_station,Station numero 1 - MEUDON,MEUDON,Goujon,GOU,6;;;;;;;;2019
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Hotu;HOT;4;2020,id_station,Station numero 1 - MEUDON,MEUDON,Hotu,HOT,4;;;;;;;;2020
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;2;2016,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,2;;;;;;;;2016
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;4;2009,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,4;;;;;;;;2009
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;28;2015,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,28;;;;;;;;2015
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;2;2020,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,2;;;;;;;;2020
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;2;2013,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,2;;;;;;;;2013
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;2;2016,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,2;;;;;;;;2016
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Breme sp.;BRX;1;2009,id_station,Station numero 2 - SEVRES,SEVRES,Breme sp.,BRX,1;;;;;;;;2009
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;9;2011,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,9;;;;;;;;2011
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;19;2010,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,19;;;;;;;;2010
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;43;2014,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,43;;;;;;;;2014
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;101;2012,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,101;;;;;;;;2012
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;2;2010,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,2;;;;;;;;2010
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;5;2014,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,5;;;;;;;;2014
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;8;2015,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,8;;;;;;;;2015
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;34;2020,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,34;;;;;;;;2020
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;7;2012,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,7;;;;;;;;2012
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;5;2016,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,5;;;;;;;;2016
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche soleil;PES;2;2009,id_station,Station numero 2 - SEVRES,SEVRES,Perche soleil,PES,2;;;;;;;;2009
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche soleil;PES;2;2019,id_station,Station numero 2 - SEVRES,SEVRES,Perche soleil,PES,2;;;;;;;;2019
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;4;2011,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,4;;;;;;;;2011
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;1;2015,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,1;;;;;;;;2015
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;1;2016,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,1;;;;;;;;2016
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;1;2017,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,1;;;;;;;;2017
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;1;2009,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,1;;;;;;;;2009
+2018;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;12;2018,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,12;;;;;;;;2018
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;10;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,10;;;;;;;;2019
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Barbeau fluviatile;BAF;1;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Barbeau fluviatile,BAF,1;;;;;;;;2019
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Breme sp.;BRX;10;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Breme sp.,BRX,10;;;;;;;;2013
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;41;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,41;;;;;;;;2011
+2016;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;2;2016,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,2;;;;;;;;2016
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Goujon;GOU;1;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Goujon,GOU,1;;;;;;;;2013
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche commune;PER;11;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,11;;;;;;;;2013
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche commune;PER;3;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,3;;;;;;;;2015
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche commune;PER;2;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,2;;;;;;;;2019
+2012;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Rotengle;ROT;4;2012,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,4;;;;;;;;2012
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Silure glane;SIL;1;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Silure glane,SIL,1;;;;;;;;2015
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;32;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,32;;;;;;;;2019
+2016;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Brochet;BRO;1;2016,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Brochet,BRO,1;;;;;;;;2016
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;24;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,24;;;;;;;;2014
+2017;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;1;2017,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,1;;;;;;;;2017
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;1;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,1;;;;;;;;2012
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;46;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,46;;;;;;;;2014
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;4;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,4;;;;;;;;2010
+2013;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;5;2013,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,5;;;;;;;;2013
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;4;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,4;;;;;;;;2019
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Rotengle;ROT;5;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Rotengle,ROT,5;;;;;;;;2012
+2013;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Rotengle;ROT;4;2013,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Rotengle,ROT,4;;;;;;;;2013
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Silure;SIL;1;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Silure,SIL,1;;;;;;;;2011
+2012;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;21;2012,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,21;;;;;;;;2012
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;27;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,27;;;;;;;;2019
+2015;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Barbeau fluviatile;BAF;1;2015,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Barbeau fluviatile,BAF,1;;;;;;;;2015
+2018;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Barbeau fluviatile;BAF;2;2018,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Barbeau fluviatile,BAF,2;;;;;;;;2018
+2010;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;18;2010,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,18;;;;;;;;2010
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;2;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,2;;;;;;;;2019
+2012;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;8;2012,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,8;;;;;;;;2012
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;55;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,55;;;;;;;;2019
+2015;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;30;2015,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,30;;;;;;;;2015
+2019;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;10;2019,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,10;;;;;;;;2019
+2012;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Barbeau fluviatile;BAF;8;2012,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Barbeau fluviatile,BAF,8;;;;;;;;2012
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Barbeau fluviatile;BAF;2;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Barbeau fluviatile,BAF,2;;;;;;;;2014
+2012;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;54;2012,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,54;;;;;;;;2012
+2017;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;6;2017,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,6;;;;;;;;2017
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;5;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,5;;;;;;;;2009
+2019;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;91;2019,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,91;;;;;;;;2019
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;10;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,10;;;;;;;;2009
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;4;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,4;;;;;;;;2010
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;13;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,13;;;;;;;;2011
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Hotu;HOT;14;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Hotu,HOT,14;;;;;;;;2014
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;9;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,9;;;;;;;;2009
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;7;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,7;;;;;;;;2010
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;4;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,4;;;;;;;;2013
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Rotengle;ROT;2;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Rotengle,ROT,2;;;;;;;;2010
+2018;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Vandoise;VAN;2;2018,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Vandoise,VAN,2;;;;;;;;2018
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;3;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,3;;;;;;;;2019
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Barbeau fluviatile;BAF;4;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,4;;;;;;;;2017
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Bouviere;BOU;18;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Bouviere,BOU,18;;;;;;;;2020
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;56;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,56;;;;;;;;2013
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;4;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,4;;;;;;;;2019
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;58;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,58;;;;;;;;2013
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;200;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,200;;;;;;;;2014
+2015;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;1;2015,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,1;;;;;;;;2015
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;8;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,8;;;;;;;;2019
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;17;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,17;;;;;;;;2020
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Hotu;HOT;2;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Hotu,HOT,2;;;;;;;;2011
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;31;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,31;;;;;;;;2009
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;8;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,8;;;;;;;;2020
+2016;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Ablette;ABL;45;2016,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Ablette,ABL,45;;;;;;;;2016
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Ablette;ABL;51;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Ablette,ABL,51;;;;;;;;2020
+2017;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche commune;PER;9;2017,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche commune,PER,9;;;;;;;;2017
+2018;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche commune;PER;3;2018,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche commune,PER,3;;;;;;;;2018
+2018;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche soleil;PES;2;2018,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche soleil,PES,2;;;;;;;;2018
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche soleil;PES;1;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche soleil,PES,1;;;;;;;;2019
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Rotengle;ROT;7;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Rotengle,ROT,7;;;;;;;;2019
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Silure glane;SIL;1;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Silure glane,SIL,1;;;;;;;;2019
+2017;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chabot;CHA;2;2017,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chabot,CHA,2;;;;;;;;2017
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Gardon;GAR;80;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Gardon,GAR,80;;;;;;;;2020
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Rotengle;ROT;12;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Rotengle,ROT,12;;;;;;;;2020
+2018;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Vandoise;VAN;2;2018,id_station,Station numero 6bis - NANTERRE,NANTERRE,Vandoise,VAN,2;;;;;;;;2018
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Vandoise;VAN;35;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Vandoise,VAN,35;;;;;;;;2020
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Gardon;GAR;25;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,25;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Vandoise;VAN;1;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Vandoise,VAN,1;;;;;;;;2020
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Gardon;GAR;7;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Gardon,GAR,7;;;;;;;;2022
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Gobie tache noire;GOT;1;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Gobie tache noire,GOT,1;;;;;;;;2022
+2022;id_station;Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT;Station Pointe aval de l'Ile Seguin;BOULOGNE BILLANCOURT;Chevesne;CHE;15;2022,id_station,Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,15;;;;;;;;2022
+2022;id_station;Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT;Station Pointe aval de l'Ile Seguin;BOULOGNE BILLANCOURT;Rotengle;ROT;2;2022,id_station,Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,2;;;;;;;;2022
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;34;2012,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,34;;;;;;;;2012
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Barbeau fluviatile;BAF;1;2019,id_station,Station numero 1 - MEUDON,MEUDON,Barbeau fluviatile,BAF,1;;;;;;;;2019
+2010;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;8;2010,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,8;;;;;;;;2010
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;34;2013,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,34;;;;;;;;2013
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;4;2020,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,4;;;;;;;;2020
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;19;2014,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,19;;;;;;;;2014
+2017;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;13;2017,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,13;;;;;;;;2017
+2018;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;35;2018,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,35;;;;;;;;2018
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;18;2009,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,18;;;;;;;;2009
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;28;2011,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,28;;;;;;;;2011
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;10;2013,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,10;;;;;;;;2013
+2017;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;13;2017,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,13;;;;;;;;2017
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;57;2019,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,57;;;;;;;;2019
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Hotu;HOT;1;2014,id_station,Station numero 1 - MEUDON,MEUDON,Hotu,HOT,1;;;;;;;;2014
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;11;2015,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,11;;;;;;;;2015
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche soleil;PES;4;2022,id_station,Station numero 1 - MEUDON,MEUDON,Perche soleil,PES,4;;;;;;;;2022
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;3;2015,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,3;;;;;;;;2015
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;3;2019,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,3;;;;;;;;2019
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Silure;SIL;2;2022,id_station,Station numero 1 - MEUDON,MEUDON,Silure,SIL,2;;;;;;;;2022
+2017;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Vandoise;VAN;5;2017,id_station,Station numero 1 - MEUDON,MEUDON,Vandoise,VAN,5;;;;;;;;2017
+2018;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Vandoise;VAN;5;2018,id_station,Station numero 1 - MEUDON,MEUDON,Vandoise,VAN,5;;;;;;;;2018
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;17;2016,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,17;;;;;;;;2016
+2018;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;4;2018,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,4;;;;;;;;2018
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Bouviere;BOU;2;2020,id_station,Station numero 2 - SEVRES,SEVRES,Bouviere,BOU,2;;;;;;;;2020
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Breme sp.;BRX;1;2011,id_station,Station numero 2 - SEVRES,SEVRES,Breme sp.,BRX,1;;;;;;;;2011
+2018;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Breme sp.;BRX;7;2018,id_station,Station numero 2 - SEVRES,SEVRES,Breme sp.,BRX,7;;;;;;;;2018
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;7;2009,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,7;;;;;;;;2009
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;4;2016,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,4;;;;;;;;2016
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;3;2017,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,3;;;;;;;;2017
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;1;2020,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,1;;;;;;;;2020
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;5;2009,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,5;;;;;;;;2009
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;26;2013,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,26;;;;;;;;2013
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;31;2016,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,31;;;;;;;;2016
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;25;2020,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,25;;;;;;;;2020
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;92;2010,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,92;;;;;;;;2010
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;89;2014,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,89;;;;;;;;2014
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;5;2011,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,5;;;;;;;;2011
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche soleil;PES;1;2011,id_station,Station numero 2 - SEVRES,SEVRES,Perche soleil,PES,1;;;;;;;;2011
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vairon;VAI;1;2014,id_station,Station numero 2 - SEVRES,SEVRES,Vairon,VAI,1;;;;;;;;2014
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;8;2011,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,8;;;;;;;;2011
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;2;2019,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,2;;;;;;;;2019
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;12;2020,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,12;;;;;;;;2020
+2010;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;7;2010,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,7;;;;;;;;2010
+2012;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;58;2012,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,58;;;;;;;;2012
+2016;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;13;2016,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,13;;;;;;;;2016
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;35;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,35;;;;;;;;2013
+2014;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;44;2014,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,44;;;;;;;;2014
+2014;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;41;2014,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,41;;;;;;;;2014
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;76;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,76;;;;;;;;2011
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;13;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,13;;;;;;;;2013
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;71;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,71;;;;;;;;2019
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Goujon;GOU;5;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Goujon,GOU,5;;;;;;;;2011
+2014;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Goujon;GOU;6;2014,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Goujon,GOU,6;;;;;;;;2014
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gremille;GRE;2;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gremille,GRE,2;;;;;;;;2019
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Hotu;HOT;2;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Hotu,HOT,2;;;;;;;;2015
+2010;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche commune;PER;4;2010,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,4;;;;;;;;2010
+2012;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche commune;PER;4;2012,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,4;;;;;;;;2012
+2009;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche soleil;PES;1;2009,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche soleil,PES,1;;;;;;;;2009
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;38;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,38;;;;;;;;2012
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Barbeau fluviatile;BAF;2;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Barbeau fluviatile,BAF,2;;;;;;;;2011
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Breme sp.;BRX;1;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Breme sp.,BRX,1;;;;;;;;2012
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;45;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,45;;;;;;;;2009
+2013;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;15;2013,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,15;;;;;;;;2013
+2016;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;3;2016,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,3;;;;;;;;2016
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;1;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,1;;;;;;;;2019
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;4;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,4;;;;;;;;2009
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;16;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,16;;;;;;;;2010
+2016;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;1;2016,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,1;;;;;;;;2016
+2018;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;2;2018,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,2;;;;;;;;2018
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;45;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,45;;;;;;;;2010
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;27;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,27;;;;;;;;2011
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;85;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,85;;;;;;;;2019
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Goujon;GOU;3;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Goujon,GOU,3;;;;;;;;2012
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;3;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,3;;;;;;;;2012
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;5;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,5;;;;;;;;2015
+2017;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;11;2017,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,11;;;;;;;;2017
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Vandoise;VAN;1;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Vandoise,VAN,1;;;;;;;;2019
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;25;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,25;;;;;;;;2014
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;5;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,5;;;;;;;;2011
+2018;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;11;2018,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,11;;;;;;;;2018
+2013;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;2;2013,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,2;;;;;;;;2013
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;92;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,92;;;;;;;;2014
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Hotu;HOT;2;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Hotu,HOT,2;;;;;;;;2019
+2012;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;13;2012,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,13;;;;;;;;2012
+2018;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;2;2018,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,2;;;;;;;;2018
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Sandre;SAN;1;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Sandre,SAN,1;;;;;;;;2014
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;24;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,24;;;;;;;;2013
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Barbeau fluviatile;BAF;4;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Barbeau fluviatile,BAF,4;;;;;;;;2015
+2017;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Barbeau fluviatile;BAF;1;2017,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Barbeau fluviatile,BAF,1;;;;;;;;2017
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Bouviere;BOU;2;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Bouviere,BOU,2;;;;;;;;2011
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;27;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,27;;;;;;;;2014
+2018;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;4;2018,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,4;;;;;;;;2018
+2016;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;2;2016,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,2;;;;;;;;2016
+2019;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;8;2019,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,8;;;;;;;;2019
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;10;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,10;;;;;;;;2010
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;87;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,87;;;;;;;;2014
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;3;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,3;;;;;;;;2015
+2012;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;12;2012,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,12;;;;;;;;2012
+2017;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;1;2017,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,1;;;;;;;;2017
+2018;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;3;2018,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,3;;;;;;;;2018
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Rotengle;ROT;7;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Rotengle,ROT,7;;;;;;;;2011
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Rotengle;ROT;1;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Rotengle,ROT,1;;;;;;;;2015
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Sandre;SAN;1;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Sandre,SAN,1;;;;;;;;2010
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Vandoise;VAN;1;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Vandoise,VAN,1;;;;;;;;2011
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;10;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,10;;;;;;;;2014
+2015;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;16;2015,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,16;;;;;;;;2015
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Barbeau fluviatile;BAF;1;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,1;;;;;;;;2009
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Barbeau fluviatile;BAF;7;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,7;;;;;;;;2013
+2016;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Bouviere;BOU;3;2016,id_station,Station numero 7 - NANTERRE,NANTERRE,Bouviere,BOU,3;;;;;;;;2016
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Breme sp.;BRX;2;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Breme sp.,BRX,2;;;;;;;;2020
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;44;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,44;;;;;;;;2011
+2012;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;53;2012,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,53;;;;;;;;2012
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;85;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,85;;;;;;;;2011
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;39;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,39;;;;;;;;2017
+2012;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;11;2012,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,11;;;;;;;;2012
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;51;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,51;;;;;;;;2014
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Hotu;HOT;1;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Hotu,HOT,1;;;;;;;;2017
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;5;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,5;;;;;;;;2010
+2015;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;9;2015,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,9;;;;;;;;2015
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;16;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,16;;;;;;;;2019
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche soleil;PES;1;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche soleil,PES,1;;;;;;;;2017
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Rotengle;ROT;2;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Rotengle,ROT,2;;;;;;;;2017
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Vandoise;VAN;2;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Vandoise,VAN,2;;;;;;;;2014
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Vandoise;VAN;5;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Vandoise,VAN,5;;;;;;;;2020
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Sandre;SAN;1;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Sandre,SAN,1;;;;;;;;2009
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Silure;SIL;3;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Silure,SIL,3;;;;;;;;2010
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Tanche;TAN;3;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Tanche,TAN,3;;;;;;;;2010
+2016;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Tanche;TAN;1;2016,id_station,Station numero 7 - NANTERRE,NANTERRE,Tanche,TAN,1;;;;;;;;2016
+2018;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Ablette;ABL;1;2018,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Ablette,ABL,1;;;;;;;;2018
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Barbeau fluviatile;BAF;1;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Barbeau fluviatile,BAF,1;;;;;;;;2020
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chevesne;CHE;61;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chevesne,CHE,61;;;;;;;;2020
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Gardon;GAR;86;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Gardon,GAR,86;;;;;;;;2019
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Hotu;HOT;18;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Hotu,HOT,18;;;;;;;;2015
+2017;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Rotengle;ROT;2;2017,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Rotengle,ROT,2;;;;;;;;2017
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Rotengle;ROT;16;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Rotengle,ROT,16;;;;;;;;2020
+2017;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Vandoise;VAN;1;2017,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Vandoise,VAN,1;;;;;;;;2017
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Bouviere;BOU;11;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Bouviere,BOU,11;;;;;;;;2020
+2017;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Gardon;GAR;29;2017,id_station,Station numero 6bis - NANTERRE,NANTERRE,Gardon,GAR,29;;;;;;;;2017
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Perche commune;PER;6;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Perche commune,PER,6;;;;;;;;2019
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Perche commune;PER;4;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Perche commune,PER,4;;;;;;;;2020
+2018;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Perche soleil;PES;1;2018,id_station,Station numero 6bis - NANTERRE,NANTERRE,Perche soleil,PES,1;;;;;;;;2018
+2018;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Sandre;SAN;3;2018,id_station,Station numero 6bis - NANTERRE,NANTERRE,Sandre,SAN,3;;;;;;;;2018
+2017;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Silure glane;SIL;2;2017,id_station,Station numero 6bis - NANTERRE,NANTERRE,Silure glane,SIL,2;;;;;;;;2017
+2017;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Vandoise;VAN;1;2017,id_station,Station numero 6bis - NANTERRE,NANTERRE,Vandoise,VAN,1;;;;;;;;2017
+2020;id_station;Station Quai de Dion Bouton - PUTEAUX;Station Quai de Dion Bouton;PUTEAUX;Perche commune;PER;6;2020,id_station,Station Quai de Dion Bouton - PUTEAUX,PUTEAUX,Perche commune,PER,6;;;;;;;;2020
+2020;id_station;Station Diffuseur Paul Bert - COLOMBES;Station Diffuseur Paul Bert;COLOMBES;Chabot;CHA;5;2020,id_station,Station Diffuseur Paul Bert - COLOMBES,COLOMBES,Chabot,CHA,5;;;;;;;;2020
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Chabot;CHA;6;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Chabot,CHA,6;;;;;;;;2022
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Chevesne;CHE;13;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Chevesne,CHE,13;;;;;;;;2022
+2022;id_station;Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT;Station Pointe aval de l'Ile Seguin;BOULOGNE BILLANCOURT;Chabot;CHA;1;2022,id_station,Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,1;;;;;;;;2022
+2022;id_station;Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT;Station Pointe aval de l'Ile Seguin;BOULOGNE BILLANCOURT;Gardon;GAR;3;2022,id_station,Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,3;;;;;;;;2022
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;36;2015,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,36;;;;;;;;2015
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Breme sp.;BRX;2;2012,id_station,Station numero 1 - MEUDON,MEUDON,Breme sp.,BRX,2;;;;;;;;2012
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Breme sp.;BRX;9;2013,id_station,Station numero 1 - MEUDON,MEUDON,Breme sp.,BRX,9;;;;;;;;2013
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Breme sp.;BRX;2;2014,id_station,Station numero 1 - MEUDON,MEUDON,Breme sp.,BRX,2;;;;;;;;2014
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;9;2015,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,9;;;;;;;;2015
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;11;2012,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,11;;;;;;;;2012
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;8;2016,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,8;;;;;;;;2016
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Goujon;GOU;1;2014,id_station,Station numero 1 - MEUDON,MEUDON,Goujon,GOU,1;;;;;;;;2014
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Hotu;HOT;26;2015,id_station,Station numero 1 - MEUDON,MEUDON,Hotu,HOT,26;;;;;;;;2015
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;4;2009,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,4;;;;;;;;2009
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;5;2011,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,5;;;;;;;;2011
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;3;2012,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,3;;;;;;;;2012
+2017;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;4;2017,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,4;;;;;;;;2017
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;1;2022,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,1;;;;;;;;2022
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche soleil;PES;2;2009,id_station,Station numero 1 - MEUDON,MEUDON,Perche soleil,PES,2;;;;;;;;2009
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;6;2014,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,6;;;;;;;;2014
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Sandre;SAN;1;2009,id_station,Station numero 1 - MEUDON,MEUDON,Sandre,SAN,1;;;;;;;;2009
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Silure;SIL;2;2009,id_station,Station numero 1 - MEUDON,MEUDON,Silure,SIL,2;;;;;;;;2009
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;35;2012,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,35;;;;;;;;2012
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;16;2014,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,16;;;;;;;;2014
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Bouviere;BOU;4;2011,id_station,Station numero 2 - SEVRES,SEVRES,Bouviere,BOU,4;;;;;;;;2011
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Brochet;BRO;2;2014,id_station,Station numero 2 - SEVRES,SEVRES,Brochet,BRO,2;;;;;;;;2014
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Breme sp.;BRX;1;2015,id_station,Station numero 2 - SEVRES,SEVRES,Breme sp.,BRX,1;;;;;;;;2015
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Breme sp.;BRX;3;2016,id_station,Station numero 2 - SEVRES,SEVRES,Breme sp.,BRX,3;;;;;;;;2016
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;25;2012,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,25;;;;;;;;2012
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;38;2015,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,38;;;;;;;;2015
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;89;2011,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,89;;;;;;;;2011
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;6;2009,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,6;;;;;;;;2009
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;4;2013,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,4;;;;;;;;2013
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;341;2014,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,341;;;;;;;;2014
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;32;2015,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,32;;;;;;;;2015
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;1;2009,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,1;;;;;;;;2009
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;26;2019,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,26;;;;;;;;2019
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gremille;GRE;5;2011,id_station,Station numero 2 - SEVRES,SEVRES,Gremille,GRE,5;;;;;;;;2011
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Loche franche;LOF;2;2015,id_station,Station numero 2 - SEVRES,SEVRES,Loche franche,LOF,2;;;;;;;;2015
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;15;2017,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,15;;;;;;;;2017
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche soleil;PES;1;2010,id_station,Station numero 2 - SEVRES,SEVRES,Perche soleil,PES,1;;;;;;;;2010
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;11;2010,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,11;;;;;;;;2010
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;1;2012,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,1;;;;;;;;2012
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;1;2013,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,1;;;;;;;;2013
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;6;2017,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,6;;;;;;;;2017
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;128;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,128;;;;;;;;2015
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Breme sp.;BRX;1;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Breme sp.,BRX,1;;;;;;;;2011
+2012;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;30;2012,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,30;;;;;;;;2012
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;21;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,21;;;;;;;;2015
+2017;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;1;2017,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,1;;;;;;;;2017
+2009;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;5;2009,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,5;;;;;;;;2009
+2010;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;7;2010,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,7;;;;;;;;2010
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;27;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,27;;;;;;;;2011
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;2;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,2;;;;;;;;2013
+2016;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;46;2016,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,46;;;;;;;;2016
+2017;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;5;2017,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,5;;;;;;;;2017
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;25;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,25;;;;;;;;2019
+2009;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;1;2009,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,1;;;;;;;;2009
+2014;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;67;2014,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,67;;;;;;;;2014
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Hotu;HOT;2;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Hotu,HOT,2;;;;;;;;2019
+2014;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Rotengle;ROT;1;2014,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,1;;;;;;;;2014
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Silure glane;SIL;1;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Silure glane,SIL,1;;;;;;;;2013
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Barbeau fluviatile;BAF;1;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Barbeau fluviatile,BAF,1;;;;;;;;2012
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Barbeau fluviatile;BAF;3;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Barbeau fluviatile,BAF,3;;;;;;;;2015
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Barbeau fluviatile;BAF;5;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Barbeau fluviatile,BAF,5;;;;;;;;2019
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Black bass;BBG;2;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Black bass,BBG,2;;;;;;;;2010
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;7;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,7;;;;;;;;2012
+2013;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;16;2013,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,16;;;;;;;;2013
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Goujon;GOU;3;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Goujon,GOU,3;;;;;;;;2011
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Goujon;GOU;4;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Goujon,GOU,4;;;;;;;;2014
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Goujon;GOU;2;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Goujon,GOU,2;;;;;;;;2019
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;6;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,6;;;;;;;;2011
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;5;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,5;;;;;;;;2014
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Rotengle;ROT;5;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Rotengle,ROT,5;;;;;;;;2011
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;3;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,3;;;;;;;;2011
+2013;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;13;2013,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,13;;;;;;;;2013
+2015;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;19;2015,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,19;;;;;;;;2015
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;60;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,60;;;;;;;;2011
+2013;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;44;2013,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,44;;;;;;;;2013
+2016;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;1;2016,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,1;;;;;;;;2016
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;15;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,15;;;;;;;;2014
+2009;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;29;2009,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,29;;;;;;;;2009
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;24;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,24;;;;;;;;2011
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;9;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,9;;;;;;;;2019
+2009;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Rotengle;ROT;1;2009,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Rotengle,ROT,1;;;;;;;;2009
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Vandoise;VAN;2;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Vandoise,VAN,2;;;;;;;;2014
+2018;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Vandoise;VAN;16;2018,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Vandoise,VAN,16;;;;;;;;2018
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;1;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,1;;;;;;;;2011
+2012;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;106;2012,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,106;;;;;;;;2012
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;13;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,13;;;;;;;;2014
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;111;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,111;;;;;;;;2015
+2016;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;7;2016,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,7;;;;;;;;2016
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Barbeau fluviatile;BAF;3;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Barbeau fluviatile,BAF,3;;;;;;;;2013
+2016;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;4;2016,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,4;;;;;;;;2016
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;2;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,2;;;;;;;;2009
+2017;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;3;2017,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,3;;;;;;;;2017
+2018;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;21;2018,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,21;;;;;;;;2018
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;28;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,28;;;;;;;;2013
+2018;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;9;2018,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,9;;;;;;;;2018
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;6;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,6;;;;;;;;2011
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Rotengle;ROT;14;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Rotengle,ROT,14;;;;;;;;2009
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Sandre;SAN;1;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Sandre,SAN,1;;;;;;;;2013
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;1;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,1;;;;;;;;2011
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Barbeau fluviatile;BAF;1;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,1;;;;;;;;2019
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Bouviere;BOU;2;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Bouviere,BOU,2;;;;;;;;2014
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Bouviere;BOU;1;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Bouviere,BOU,1;;;;;;;;2017
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;42;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,42;;;;;;;;2009
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;21;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,21;;;;;;;;2011
+2012;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;68;2012,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,68;;;;;;;;2012
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;61;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,61;;;;;;;;2014
+2015;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;24;2015,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,24;;;;;;;;2015
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;49;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,49;;;;;;;;2010
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;2;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,2;;;;;;;;2013
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;97;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,97;;;;;;;;2019
+2015;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;11;2015,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,11;;;;;;;;2015
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;42;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,42;;;;;;;;2011
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;1;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,1;;;;;;;;2014
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;26;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,26;;;;;;;;2017
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche soleil;PES;2;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche soleil,PES,2;;;;;;;;2009
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Ablette;ABL;57;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Ablette,ABL,57;;;;;;;;2015
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Ablette;ABL;8;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Ablette,ABL,8;;;;;;;;2019
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Barbeau fluviatile;BAF;2;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Barbeau fluviatile,BAF,2;;;;;;;;2015
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chabot;CHA;5;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chabot,CHA,5;;;;;;;;2020
+2018;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chevesne;CHE;1;2018,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chevesne,CHE,1;;;;;;;;2018
+2016;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Gardon;GAR;3;2016,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Gardon,GAR,3;;;;;;;;2016
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Gardon;GAR;56;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Gardon,GAR,56;;;;;;;;2020
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche commune;PER;1;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche commune,PER,1;;;;;;;;2019
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche commune;PER;1;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche commune,PER,1;;;;;;;;2020
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Vandoise;VAN;5;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Vandoise,VAN,5;;;;;;;;2015
+2018;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Vandoise;VAN;1;2018,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Vandoise,VAN,1;;;;;;;;2018
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Barbeau fluviatile;BAF;1;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,1;;;;;;;;2019
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Bouviere;BOU;2;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Bouviere,BOU,2;;;;;;;;2019
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chabot;CHA;2;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chabot,CHA,2;;;;;;;;2020
+2018;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chevesne;CHE;7;2018,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chevesne,CHE,7;;;;;;;;2018
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chevesne;CHE;35;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chevesne,CHE,35;;;;;;;;2020
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Goujon;GOU;4;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Goujon,GOU,4;;;;;;;;2019
+2017;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Perche commune;PER;47;2017,id_station,Station numero 6bis - NANTERRE,NANTERRE,Perche commune,PER,47;;;;;;;;2017
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Perche commune;PER;4;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,4;;;;;;;;2020
+2020;id_station;Station Diffuseur Paul Bert - COLOMBES;Station Diffuseur Paul Bert;COLOMBES;Bouviere;BOU;2;2020,id_station,Station Diffuseur Paul Bert - COLOMBES,COLOMBES,Bouviere,BOU,2;;;;;;;;2020
+2020;id_station;Station Diffuseur Paul Bert - COLOMBES;Station Diffuseur Paul Bert;COLOMBES;Goujon;GOU;2;2020,id_station,Station Diffuseur Paul Bert - COLOMBES,COLOMBES,Goujon,GOU,2;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Gardon;GAR;32;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Gardon,GAR,32;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Perche commune;PER;7;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Perche commune,PER,7;;;;;;;;2020
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Tanche;TAN;1;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Tanche,TAN,1;;;;;;;;2022
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;55;2014,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,55;;;;;;;;2014
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;30;2019,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,30;;;;;;;;2019
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Barbeau fluviatile;BAF;7;2015,id_station,Station numero 1 - MEUDON,MEUDON,Barbeau fluviatile,BAF,7;;;;;;;;2015
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Breme sp.;BRX;1;2016,id_station,Station numero 1 - MEUDON,MEUDON,Breme sp.,BRX,1;;;;;;;;2016
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Breme sp.;BRX;2;2022,id_station,Station numero 1 - MEUDON,MEUDON,Breme sp.,BRX,2;;;;;;;;2022
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;13;2012,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,13;;;;;;;;2012
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;37;2013,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,37;;;;;;;;2013
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;7;2015,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,7;;;;;;;;2015
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;27;2016,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,27;;;;;;;;2016
+2010;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;13;2010,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,13;;;;;;;;2010
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Goujon;GOU;2;2022,id_station,Station numero 1 - MEUDON,MEUDON,Goujon,GOU,2;;;;;;;;2022
+2017;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Hotu;HOT;12;2017,id_station,Station numero 1 - MEUDON,MEUDON,Hotu,HOT,12;;;;;;;;2017
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;2;2019,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,2;;;;;;;;2019
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;3;2011,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,3;;;;;;;;2011
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;3;2020,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,3;;;;;;;;2020
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Silure;SIL;1;2020,id_station,Station numero 1 - MEUDON,MEUDON,Silure,SIL,1;;;;;;;;2020
+2014;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Vandoise;VAN;1;2014,id_station,Station numero 1 - MEUDON,MEUDON,Vandoise,VAN,1;;;;;;;;2014
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;3;2009,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,3;;;;;;;;2009
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;1;2011,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,1;;;;;;;;2011
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;60;2013,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,60;;;;;;;;2013
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;4;2011,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,4;;;;;;;;2011
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;6;2015,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,6;;;;;;;;2015
+2018;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Bouviere;BOU;3;2018,id_station,Station numero 2 - SEVRES,SEVRES,Bouviere,BOU,3;;;;;;;;2018
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;36;2013,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,36;;;;;;;;2013
+2018;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;12;2018,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,12;;;;;;;;2018
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;39;2015,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,39;;;;;;;;2015
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;60;2019,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,60;;;;;;;;2019
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;215;2011,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,215;;;;;;;;2011
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;100;2019,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,100;;;;;;;;2019
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;1;2012,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,1;;;;;;;;2012
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;29;2011,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,29;;;;;;;;2011
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;1;2012,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,1;;;;;;;;2012
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;33;2015,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,33;;;;;;;;2015
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;16;2019,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,16;;;;;;;;2019
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;9;2015,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,9;;;;;;;;2015
+2009;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;11;2009,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,11;;;;;;;;2009
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;2;2013,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,2;;;;;;;;2013
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Rotengle;ROT;4;2020,id_station,Station numero 2 - SEVRES,SEVRES,Rotengle,ROT,4;;;;;;;;2020
+2015;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Vandoise;VAN;1;2015,id_station,Station numero 2 - SEVRES,SEVRES,Vandoise,VAN,1;;;;;;;;2015
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;47;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,47;;;;;;;;2011
+2013;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;33;2013,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,33;;;;;;;;2013
+2018;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Ablette;ABL;7;2018,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Ablette,ABL,7;;;;;;;;2018
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Barbeau fluviatile;BAF;1;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Barbeau fluviatile,BAF,1;;;;;;;;2015
+2009;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;13;2009,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,13;;;;;;;;2009
+2010;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;4;2010,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,4;;;;;;;;2010
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chabot;CHA;1;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,1;;;;;;;;2019
+2012;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;2;2012,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,2;;;;;;;;2012
+2010;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;27;2010,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,27;;;;;;;;2010
+2017;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Perche commune;PER;7;2017,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche commune,PER,7;;;;;;;;2017
+2010;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Rotengle;ROT;13;2010,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,13;;;;;;;;2010
+2019;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Rotengle;ROT;1;2019,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,1;;;;;;;;2019
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;1;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,1;;;;;;;;2009
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;10;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,10;;;;;;;;2014
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;2;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,2;;;;;;;;2015
+2016;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;10;2016,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,10;;;;;;;;2016
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;14;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,14;;;;;;;;2011
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;19;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,19;;;;;;;;2019
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Goujon;GOU;1;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Goujon,GOU,1;;;;;;;;2015
+2019;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Hotu;HOT;5;2019,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Hotu,HOT,5;;;;;;;;2019
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;3;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,3;;;;;;;;2009
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche soleil;PES;3;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche soleil,PES,3;;;;;;;;2009
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Rotengle;ROT;7;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Rotengle,ROT,7;;;;;;;;2009
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Rotengle;ROT;1;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Rotengle,ROT,1;;;;;;;;2015
+2009;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Silure;SIL;2;2009,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Silure,SIL,2;;;;;;;;2009
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;53;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,53;;;;;;;;2014
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Barbeau fluviatile;BAF;2;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Barbeau fluviatile,BAF,2;;;;;;;;2019
+2012;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;38;2012,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,38;;;;;;;;2012
+2015;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;16;2015,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,16;;;;;;;;2015
+2017;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;4;2017,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,4;;;;;;;;2017
+2018;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;10;2018,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,10;;;;;;;;2018
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;5;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,5;;;;;;;;2019
+2016;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;15;2016,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,15;;;;;;;;2016
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;107;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,107;;;;;;;;2011
+2018;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;4;2018,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,4;;;;;;;;2018
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Goujon;GOU;1;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Goujon,GOU,1;;;;;;;;2014
+2015;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Hotu;HOT;1;2015,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Hotu,HOT,1;;;;;;;;2015
+2010;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;9;2010,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,9;;;;;;;;2010
+2013;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;17;2013,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,17;;;;;;;;2013
+2017;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Vandoise;VAN;1;2017,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Vandoise,VAN,1;;;;;;;;2017
+2019;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Vandoise;VAN;1;2019,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Vandoise,VAN,1;;;;;;;;2019
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Ablette;ABL;10;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Ablette,ABL,10;;;;;;;;2009
+2016;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Brochet;BRO;1;2016,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Brochet,BRO,1;;;;;;;;2016
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;9;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,9;;;;;;;;2010
+2019;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;1;2019,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,1;;;;;;;;2019
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;38;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,38;;;;;;;;2010
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;49;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,49;;;;;;;;2011
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;16;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,16;;;;;;;;2013
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;11;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,11;;;;;;;;2014
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;39;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,39;;;;;;;;2015
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;12;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,12;;;;;;;;2015
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Hotu;HOT;4;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Hotu,HOT,4;;;;;;;;2011
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;1;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,1;;;;;;;;2015
+2019;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;2;2019,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,2;;;;;;;;2019
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche soleil;PES;8;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche soleil,PES,8;;;;;;;;2009
+2010;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche soleil;PES;3;2010,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche soleil,PES,3;;;;;;;;2010
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Sandre;SAN;1;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Sandre,SAN,1;;;;;;;;2014
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Vandoise;VAN;1;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Vandoise,VAN,1;;;;;;;;2013
+2012;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;60;2012,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,60;;;;;;;;2012
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;3;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,3;;;;;;;;2017
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Barbeau fluviatile;BAF;2;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,2;;;;;;;;2014
+2018;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Breme sp.;BRX;1;2018,id_station,Station numero 7 - NANTERRE,NANTERRE,Breme sp.,BRX,1;;;;;;;;2018
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;19;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,19;;;;;;;;2010
+2016;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;2;2016,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,2;;;;;;;;2016
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;12;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,12;;;;;;;;2017
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;12;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,12;;;;;;;;2009
+2017;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;21;2017,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,21;;;;;;;;2017
+2019;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;6;2019,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,6;;;;;;;;2019
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;23;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,23;;;;;;;;2020
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;2;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,2;;;;;;;;2010
+2018;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Goujon;GOU;7;2018,id_station,Station numero 7 - NANTERRE,NANTERRE,Goujon,GOU,7;;;;;;;;2018
+2011;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gremille;GRE;1;2011,id_station,Station numero 7 - NANTERRE,NANTERRE,Gremille,GRE,1;;;;;;;;2011
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Hotu;HOT;19;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Hotu,HOT,19;;;;;;;;2014
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ide melanote;IDE;1;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Ide melanote,IDE,1;;;;;;;;2014
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;23;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,23;;;;;;;;2013
+2016;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche commune;PER;2;2016,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche commune,PER,2;;;;;;;;2016
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Perche soleil;PES;1;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Perche soleil,PES,1;;;;;;;;2010
+2009;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Rotengle;ROT;5;2009,id_station,Station numero 7 - NANTERRE,NANTERRE,Rotengle,ROT,5;;;;;;;;2009
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Rotengle;ROT;9;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Rotengle,ROT,9;;;;;;;;2020
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Bouviere;BOU;4;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Bouviere,BOU,4;;;;;;;;2020
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chabot;CHA;17;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chabot,CHA,17;;;;;;;;2015
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chevesne;CHE;11;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chevesne,CHE,11;;;;;;;;2015
+2016;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chevesne;CHE;14;2016,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chevesne,CHE,14;;;;;;;;2016
+2022;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Gardon;GAR;3;2022,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Gardon,GAR,3;;;;;;;;2022
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Goujon;GOU;6;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Goujon,GOU,6;;;;;;;;2015
+2016;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Goujon;GOU;1;2016,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Goujon,GOU,1;;;;;;;;2016
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Goujon;GOU;3;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Goujon,GOU,3;;;;;;;;2020
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Hotu;HOT;1;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Hotu,HOT,1;;;;;;;;2020
+2018;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Rotengle;ROT;1;2018,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Rotengle,ROT,1;;;;;;;;2018
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Ablette;ABL;7;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Ablette,ABL,7;;;;;;;;2019
+2018;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Barbeau fluviatile;BAF;1;2018,id_station,Station numero 6bis - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,1;;;;;;;;2018
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chabot;CHA;1;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chabot,CHA,1;;;;;;;;2019
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chevesne;CHE;8;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chevesne,CHE,8;;;;;;;;2019
+2018;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Gardon;GAR;31;2018,id_station,Station numero 6bis - NANTERRE,NANTERRE,Gardon,GAR,31;;;;;;;;2018
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Gardon;GAR;153;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Gardon,GAR,153;;;;;;;;2019
+2019;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Hotu;HOT;4;2019,id_station,Station numero 6bis - NANTERRE,NANTERRE,Hotu,HOT,4;;;;;;;;2019
+2020;id_station;Station Quai de Dion Bouton - PUTEAUX;Station Quai de Dion Bouton;PUTEAUX;Gardon;GAR;34;2020,id_station,Station Quai de Dion Bouton - PUTEAUX,PUTEAUX,Gardon,GAR,34;;;;;;;;2020
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Chevesne;CHE;9;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,9;;;;;;;;2020
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Rotengle;ROT;1;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,1;;;;;;;;2020
+2020;id_station;Station Diffuseur Paul Bert - COLOMBES;Station Diffuseur Paul Bert;COLOMBES;Chevesne;CHE;21;2020,id_station,Station Diffuseur Paul Bert - COLOMBES,COLOMBES,Chevesne,CHE,21;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Chevesne;CHE;31;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Chevesne,CHE,31;;;;;;;;2020
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Barbeau fluviatile;BAF;3;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Barbeau fluviatile,BAF,3;;;;;;;;2022
+2022;id_station;Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT;Station Pointe aval de l'Ile Seguin;BOULOGNE BILLANCOURT;Perche soleil;PES;1;2022,id_station,Station Pointe aval de l'Ile Seguin - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Perche soleil,PES,1;;;;;;;;2022
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;3;2009,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,3;;;;;;;;2009
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;3;2011,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,3;;;;;;;;2011
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;59;2013,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,59;;;;;;;;2013
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Ablette;ABL;60;2016,id_station,Station numero 1 - MEUDON,MEUDON,Ablette,ABL,60;;;;;;;;2016
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Barbeau fluviatile;BAF;1;2012,id_station,Station numero 1 - MEUDON,MEUDON,Barbeau fluviatile,BAF,1;;;;;;;;2012
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Breme sp.;BRX;2;2015,id_station,Station numero 1 - MEUDON,MEUDON,Breme sp.,BRX,2;;;;;;;;2015
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chabot;CHA;28;2011,id_station,Station numero 1 - MEUDON,MEUDON,Chabot,CHA,28;;;;;;;;2011
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;2;2011,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,2;;;;;;;;2011
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Chevesne;CHE;64;2020,id_station,Station numero 1 - MEUDON,MEUDON,Chevesne,CHE,64;;;;;;;;2020
+2015;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;27;2015,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,27;;;;;;;;2015
+2018;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;8;2018,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,8;;;;;;;;2018
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gardon;GAR;1;2022,id_station,Station numero 1 - MEUDON,MEUDON,Gardon,GAR,1;;;;;;;;2022
+2009;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Goujon;GOU;1;2009,id_station,Station numero 1 - MEUDON,MEUDON,Goujon,GOU,1;;;;;;;;2009
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Goujon;GOU;1;2012,id_station,Station numero 1 - MEUDON,MEUDON,Goujon,GOU,1;;;;;;;;2012
+2016;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Goujon;GOU;2;2016,id_station,Station numero 1 - MEUDON,MEUDON,Goujon,GOU,2;;;;;;;;2016
+2011;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Gremille;GRE;14;2011,id_station,Station numero 1 - MEUDON,MEUDON,Gremille,GRE,14;;;;;;;;2011
+2010;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;6;2010,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,6;;;;;;;;2010
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche commune;PER;9;2013,id_station,Station numero 1 - MEUDON,MEUDON,Perche commune,PER,9;;;;;;;;2013
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Perche soleil;PES;2;2019,id_station,Station numero 1 - MEUDON,MEUDON,Perche soleil,PES,2;;;;;;;;2019
+2010;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;1;2010,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,1;;;;;;;;2010
+2012;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;22;2012,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,22;;;;;;;;2012
+2013;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;15;2013,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,15;;;;;;;;2013
+2022;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Rotengle;ROT;8;2022,id_station,Station numero 1 - MEUDON,MEUDON,Rotengle,ROT,8;;;;;;;;2022
+2019;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Vandoise;VAN;1;2019,id_station,Station numero 1 - MEUDON,MEUDON,Vandoise,VAN,1;;;;;;;;2019
+2020;id_station;Station numero 1 - MEUDON;Station numero 1;MEUDON;Vandoise;VAN;22;2020,id_station,Station numero 1 - MEUDON,MEUDON,Vandoise,VAN,22;;;;;;;;2020
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;42;2014,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,42;;;;;;;;2014
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Ablette;ABL;12;2019,id_station,Station numero 2 - SEVRES,SEVRES,Ablette,ABL,12;;;;;;;;2019
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;1;2012,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,1;;;;;;;;2012
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;2;2017,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,2;;;;;;;;2017
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Barbeau fluviatile;BAF;4;2019,id_station,Station numero 2 - SEVRES,SEVRES,Barbeau fluviatile,BAF,4;;;;;;;;2019
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Bouviere;BOU;1;2012,id_station,Station numero 2 - SEVRES,SEVRES,Bouviere,BOU,1;;;;;;;;2012
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;8;2010,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,8;;;;;;;;2010
+2014;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chabot;CHA;29;2014,id_station,Station numero 2 - SEVRES,SEVRES,Chabot,CHA,29;;;;;;;;2014
+2012;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;30;2012,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,30;;;;;;;;2012
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Chevesne;CHE;9;2017,id_station,Station numero 2 - SEVRES,SEVRES,Chevesne,CHE,9;;;;;;;;2017
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;1;2016,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,1;;;;;;;;2016
+2017;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;9;2017,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,9;;;;;;;;2017
+2020;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gardon;GAR;58;2020,id_station,Station numero 2 - SEVRES,SEVRES,Gardon,GAR,58;;;;;;;;2020
+2011;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;8;2011,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,8;;;;;;;;2011
+2016;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Goujon;GOU;8;2016,id_station,Station numero 2 - SEVRES,SEVRES,Goujon,GOU,8;;;;;;;;2016
+2019;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Gremille;GRE;1;2019,id_station,Station numero 2 - SEVRES,SEVRES,Gremille,GRE,1;;;;;;;;2019
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Hotu;HOT;5;2013,id_station,Station numero 2 - SEVRES,SEVRES,Hotu,HOT,5;;;;;;;;2013
+2010;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;2;2010,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,2;;;;;;;;2010
+2013;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;6;2013,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,6;;;;;;;;2013
+2018;id_station;Station numero 2 - SEVRES;Station numero 2;SEVRES;Perche commune;PER;2;2018,id_station,Station numero 2 - SEVRES,SEVRES,Perche commune,PER,2;;;;;;;;2018
+2009;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Breme sp.;BRX;7;2009,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Breme sp.,BRX,7;;;;;;;;2009
+2012;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Breme sp.;BRX;1;2012,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Breme sp.,BRX,1;;;;;;;;2012
+2014;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Breme sp.;BRX;4;2014,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Breme sp.,BRX,4;;;;;;;;2014
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;20;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,20;;;;;;;;2015
+2018;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Chevesne;CHE;2;2018,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chevesne,CHE,2;;;;;;;;2018
+2015;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gardon;GAR;4;2015,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gardon,GAR,4;;;;;;;;2015
+2011;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Gremille;GRE;10;2011,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Gremille,GRE,10;;;;;;;;2011
+2009;id_station;Station numero 3 - BOULOGNE BILLANCOURT;Station numero 3;BOULOGNE BILLANCOURT;Rotengle;ROT;9;2009,id_station,Station numero 3 - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Rotengle,ROT,9;;;;;;;;2009
+2013;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Ablette;ABL;31;2013,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Ablette,ABL,31;;;;;;;;2013
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Barbeau fluviatile;BAF;19;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Barbeau fluviatile,BAF,19;;;;;;;;2014
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;18;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,18;;;;;;;;2010
+2011;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;86;2011,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,86;;;;;;;;2011
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;7;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,7;;;;;;;;2012
+2014;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;33;2014,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,33;;;;;;;;2014
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chabot;CHA;21;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chabot,CHA,21;;;;;;;;2015
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Chevesne;CHE;7;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Chevesne,CHE,7;;;;;;;;2015
+2013;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;1;2013,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,1;;;;;;;;2013
+2015;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;5;2015,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,5;;;;;;;;2015
+2017;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Gardon;GAR;3;2017,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Gardon,GAR,3;;;;;;;;2017
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Goujon;GOU;8;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Goujon,GOU,8;;;;;;;;2010
+2016;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Perche commune;PER;1;2016,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Perche commune,PER,1;;;;;;;;2016
+2010;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Rotengle;ROT;2;2010,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Rotengle,ROT,2;;;;;;;;2010
+2012;id_station;Station numero 4 - NEUILLY SUR SEINE;Station numero 4;NEUILLY SUR SEINE;Vandoise;VAN;1;2012,id_station,Station numero 4 - NEUILLY SUR SEINE,NEUILLY SUR SEINE,Vandoise,VAN,1;;;;;;;;2012
+2016;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Ablette;ABL;2;2016,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Ablette,ABL,2;;;;;;;;2016
+2014;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Barbeau fluviatile;BAF;10;2014,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Barbeau fluviatile,BAF,10;;;;;;;;2014
+2009;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;25;2009,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,25;;;;;;;;2009
+2010;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chabot;CHA;27;2010,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chabot,CHA,27;;;;;;;;2010
+2012;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;10;2012,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,10;;;;;;;;2012
+2015;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Chevesne;CHE;22;2015,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Chevesne,CHE,22;;;;;;;;2015
+2010;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;12;2010,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,12;;;;;;;;2010
+2016;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Gardon;GAR;3;2016,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Gardon,GAR,3;;;;;;;;2016
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Goujon;GOU;3;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Goujon,GOU,3;;;;;;;;2011
+2010;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Hotu;HOT;1;2010,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Hotu,HOT,1;;;;;;;;2010
+2016;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;3;2016,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,3;;;;;;;;2016
+2017;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Perche commune;PER;41;2017,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Perche commune,PER,41;;;;;;;;2017
+2011;id_station;Station numero 5 - LEVALLOIS PERRET;Station numero 5;LEVALLOIS PERRET;Vandoise;VAN;7;2011,id_station,Station numero 5 - LEVALLOIS PERRET,LEVALLOIS PERRET,Vandoise,VAN,7;;;;;;;;2011
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Breme sp.;BRX;3;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Breme sp.,BRX,3;;;;;;;;2009
+2009;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;28;2009,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,28;;;;;;;;2009
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;62;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,62;;;;;;;;2011
+2013;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;15;2013,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,15;;;;;;;;2013
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chabot;CHA;21;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chabot,CHA,21;;;;;;;;2015
+2012;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Chevesne;CHE;170;2012,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Chevesne,CHE,170;;;;;;;;2012
+2011;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;118;2011,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,118;;;;;;;;2011
+2012;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Gardon;GAR;13;2012,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Gardon,GAR,13;;;;;;;;2012
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Goujon;GOU;55;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Goujon,GOU,55;;;;;;;;2014
+2019;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Hotu;HOT;1;2019,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Hotu,HOT,1;;;;;;;;2019
+2014;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;5;2014,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,5;;;;;;;;2014
+2017;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Perche commune;PER;7;2017,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Perche commune,PER,7;;;;;;;;2017
+2017;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Sandre;SAN;1;2017,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Sandre,SAN,1;;;;;;;;2017
+2015;id_station;Station numero 6 - VILLENEUVE LA GARENNE;Station numero 6;VILLENEUVE LA GARENNE;Vandoise;VAN;8;2015,id_station,Station numero 6 - VILLENEUVE LA GARENNE,VILLENEUVE LA GARENNE,Vandoise,VAN,8;;;;;;;;2015
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;13;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,13;;;;;;;;2013
+2016;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Ablette;ABL;20;2016,id_station,Station numero 7 - NANTERRE,NANTERRE,Ablette,ABL,20;;;;;;;;2016
+2012;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Barbeau fluviatile;BAF;1;2012,id_station,Station numero 7 - NANTERRE,NANTERRE,Barbeau fluviatile,BAF,1;;;;;;;;2012
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;70;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,70;;;;;;;;2014
+2015;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;70;2015,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,70;;;;;;;;2015
+2018;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;1;2018,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,1;;;;;;;;2018
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chabot;CHA;10;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Chabot,CHA,10;;;;;;;;2020
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;31;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,31;;;;;;;;2010
+2016;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Chevesne;CHE;24;2016,id_station,Station numero 7 - NANTERRE,NANTERRE,Chevesne,CHE,24;;;;;;;;2016
+2012;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;2;2012,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,2;;;;;;;;2012
+2020;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Gardon;GAR;104;2020,id_station,Station numero 7 - NANTERRE,NANTERRE,Gardon,GAR,104;;;;;;;;2020
+2010;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Rotengle;ROT;3;2010,id_station,Station numero 7 - NANTERRE,NANTERRE,Rotengle,ROT,3;;;;;;;;2010
+2014;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Rotengle;ROT;1;2014,id_station,Station numero 7 - NANTERRE,NANTERRE,Rotengle,ROT,1;;;;;;;;2014
+2013;id_station;Station numero 7 - NANTERRE;Station numero 7;NANTERRE;Vandoise;VAN;1;2013,id_station,Station numero 7 - NANTERRE,NANTERRE,Vandoise,VAN,1;;;;;;;;2013
+2019;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chevesne;CHE;6;2019,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chevesne,CHE,6;;;;;;;;2019
+2022;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Chevesne;CHE;6;2022,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Chevesne,CHE,6;;;;;;;;2022
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Gardon;GAR;17;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Gardon,GAR,17;;;;;;;;2015
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche commune;PER;5;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche commune,PER,5;;;;;;;;2015
+2022;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Perche soleil;PES;2;2022,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Perche soleil,PES,2;;;;;;;;2022
+2015;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Rotengle;ROT;6;2015,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Rotengle,ROT,6;;;;;;;;2015
+2022;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Rotengle;ROT;3;2022,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Rotengle,ROT,3;;;;;;;;2022
+2020;id_station;Station numero 1bis - ISSY LES MOULINEAUX;Station numero 1bis;ISSY LES MOULINEAUX;Vandoise;VAN;30;2020,id_station,Station numero 1bis - ISSY LES MOULINEAUX,ISSY LES MOULINEAUX,Vandoise,VAN,30;;;;;;;;2020
+2017;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Chevesne;CHE;6;2017,id_station,Station numero 6bis - NANTERRE,NANTERRE,Chevesne,CHE,6;;;;;;;;2017
+2020;id_station;Station numero 6bis - NANTERRE;Station numero 6bis;NANTERRE;Goujon;GOU;149;2020,id_station,Station numero 6bis - NANTERRE,NANTERRE,Goujon,GOU,149;;;;;;;;2020
+2020;id_station;Station Quai de Dion Bouton - PUTEAUX;Station Quai de Dion Bouton;PUTEAUX;Ablette;ABL;6;2020,id_station,Station Quai de Dion Bouton - PUTEAUX,PUTEAUX,Ablette,ABL,6;;;;;;;;2020
+2020;id_station;Station Quai de Dion Bouton - PUTEAUX;Station Quai de Dion Bouton;PUTEAUX;Chabot;CHA;3;2020,id_station,Station Quai de Dion Bouton - PUTEAUX,PUTEAUX,Chabot,CHA,3;;;;;;;;2020
+2020;id_station;Station Quai de Dion Bouton - PUTEAUX;Station Quai de Dion Bouton;PUTEAUX;Chevesne;CHE;11;2020,id_station,Station Quai de Dion Bouton - PUTEAUX,PUTEAUX,Chevesne,CHE,11;;;;;;;;2020
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Breme bordeliere;BRB;1;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Breme bordeliere,BRB,1;;;;;;;;2020
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Chabot;CHA;5;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Chabot,CHA,5;;;;;;;;2020
+2020;id_station;Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT;Station Du port Le Grand au Pont de Saint Cloud;BOULOGNE BILLANCOURT;Vandoise;VAN;3;2020,id_station,Station Du port Le Grand au Pont de Saint Cloud - BOULOGNE BILLANCOURT,BOULOGNE BILLANCOURT,Vandoise,VAN,3;;;;;;;;2020
+2020;id_station;Station Diffuseur Paul Bert - COLOMBES;Station Diffuseur Paul Bert;COLOMBES;Gardon;GAR;26;2020,id_station,Station Diffuseur Paul Bert - COLOMBES,COLOMBES,Gardon,GAR,26;;;;;;;;2020
+2020;id_station;Station Diffuseur Paul Bert - COLOMBES;Station Diffuseur Paul Bert;COLOMBES;Rotengle;ROT;1;2020,id_station,Station Diffuseur Paul Bert - COLOMBES,COLOMBES,Rotengle,ROT,1;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Ablette;ABL;17;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Ablette,ABL,17;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Chabot;CHA;7;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Chabot,CHA,7;;;;;;;;2020
+2020;id_station;Station Estacade des Mariniers - GENNEVILLIERS;Station Estacade des Mariniers;GENNEVILLIERS;Goujon;GOU;1;2020,id_station,Station Estacade des Mariniers - GENNEVILLIERS,GENNEVILLIERS,Goujon,GOU,1;;;;;;;;2020
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Bouviere;BOU;1;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Bouviere,BOU,1;;;;;;;;2022
+2022;id_station;Station Entre pont de Clichy et pont de Gennevilliers - CLICHY;Station Entre pont de Clichy et pont de Gennevilliers;CLICHY;Goujon;GOU;2;2022,id_station,Station Entre pont de Clichy et pont de Gennevilliers - CLICHY,CLICHY,Goujon,GOU,2;;;;;;;;2022
