@@ -132,7 +132,6 @@ def dessiner_analyse_pour_une_tuile(axes_col, m_us_corrige, data_ir, nom_partie)
     """
     Dessine les 4 graphiques d'analyse (US, IR, Fusion, Divergence) pour une seule tuile
     sur une colonne d'axes fournie.
-    (Version avec le calcul de seuil IR robuste restauré)
     """
     m_us = m_us_corrige.astype(float)
     m_ir = data_ir['Z']
@@ -215,10 +214,7 @@ def lancer_analyse_temperature_seule():
     print("\n--- Analyse de température par tuile terminée. ---")
 
 def lancer_analyse_fusionnee_par_tuile():
-    """
-    Lance l'analyse de fusion et affiche les résultats des 3 tuiles sur une seule
-    figure comparative (grille de 4x3).
-    """
+
     print("\n--- Lancement de la fusion US/IR (vue comparative) ---")
     
     ir_tiles = charger_donnees_ir_par_tuile(FICHIER_IR_TXT)
@@ -311,4 +307,5 @@ if __name__ == "__main__":
             print("Fin du programme.")
             break
         else:
+
             print("Choix invalide. Veuillez réessayer.")
