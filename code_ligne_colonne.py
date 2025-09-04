@@ -2,11 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
 
-# Constante pour identifier le début des données, basée sur l'image.
+
 LIGNE_DEBUT_DONNEES = "______Output Data (Format for each row: index Number, scanning number, Waveform)______"
-# Nombre de pas de temps (longueur de la forme d'onde).
-# Basé sur "Waveform Length (pts): 811" dans l'image.
-# Si cela doit aussi être dynamique, il faudrait l'adapter.
+
 NOMBRE_PAS_TEMPS = 811
 
 def analyser_fichier_donnees_dynamique(chemin_fichier):
@@ -40,8 +38,7 @@ def analyser_fichier_donnees_dynamique(chemin_fichier):
 
                 elements = ligne_nettoyee.split()
                 
-                # Chaque ligne de données doit avoir au moins idx_ligne, idx_colonne et une valeur de forme d'onde.
-                # La longueur exacte de la forme d'onde est vérifiée par rapport à NOMBRE_PAS_TEMPS.
+
                 if len(elements) != 2 + NOMBRE_PAS_TEMPS:
                     if en_tete_trouve: # N'afficher les avertissements qu'après avoir trouvé l'en-tête
                         print(f"Info (Ligne {num_ligne_fichier} - Phase 1): La ligne ne correspond pas au format attendu "
@@ -55,7 +52,7 @@ def analyser_fichier_donnees_dynamique(chemin_fichier):
                     
                     # Les éléments restants forment la forme d'onde
                     waveform_str_values = elements[2:]
-                    # Vérification explicite (redondante si len(elements) est déjà vérifié, mais plus sûr)
+
                     if len(waveform_str_values) == NOMBRE_PAS_TEMPS:
                         forme_onde = np.array([float(x) for x in waveform_str_values])
                         
@@ -64,7 +61,6 @@ def analyser_fichier_donnees_dynamique(chemin_fichier):
                         max_idx_colonne = max(max_idx_colonne, idx_colonne)
                         lignes_donnees_valides_lues += 1
                     else:
-                        # Ce cas ne devrait pas être atteint si la vérification len(elements) est correcte
                         print(f"Avertissement (Ligne {num_ligne_fichier} - Phase 1): Longueur de forme d'onde ({len(waveform_str_values)}) "
                               f"ne correspond pas à NOMBRE_PAS_TEMPS ({NOMBRE_PAS_TEMPS}). Ligne ignorée.")
 
@@ -72,8 +68,7 @@ def analyser_fichier_donnees_dynamique(chemin_fichier):
                     if en_tete_trouve:
                         print(f"Avertissement (Ligne {num_ligne_fichier} - Phase 1): Impossible de convertir les indices ou "
                               f"valeurs de forme d'onde en nombres : '{ligne_nettoyee[:70]}...'. Ligne ignorée.")
-                # IndexError ne devrait pas se produire grâce aux vérifications de longueur précédentes.
-    
+
     except FileNotFoundError:
         print(f"Erreur : Le fichier '{chemin_fichier}' n'a pas été trouvé.")
         return None
@@ -98,7 +93,7 @@ def analyser_fichier_donnees_dynamique(chemin_fichier):
           f"{nombre_colonnes_detectees} colonnes (max indice lu: {max_idx_colonne}).")
     print(f"Nombre de pas de temps utilisé (longueur de forme d'onde) : {NOMBRE_PAS_TEMPS}.")
 
-    # Phase 2: Création et remplissage de la matrice NumPy
+    # Création et remplissage de la matrice NumPy
     print("Phase 2 : Création de la matrice NumPy et remplissage des données...")
     try:
         if nombre_lignes_detectees <= 0 or nombre_colonnes_detectees <= 0:
@@ -110,12 +105,12 @@ def analyser_fichier_donnees_dynamique(chemin_fichier):
         
         lignes_remplies = 0
         for idx_l, idx_c, forme_onde_data in donnees_brutes:
-            # Vérification supplémentaire (devrait toujours être vrai si la logique est correcte)
+            # Vérification supplémentaire 
             if 0 <= idx_l < nombre_lignes_detectees and 0 <= idx_c < nombre_colonnes_detectees:
                 donnees_matrice[idx_l, idx_c, :] = forme_onde_data
                 lignes_remplies +=1
             else:
-                # Ceci indiquerait une erreur dans la logique de détection des max_idx ou de stockage.
+               
                 print(f"Erreur interne critique (Phase 2): Indice ({idx_l}, {idx_c}) hors des limites détectées "
                       f"({nombre_lignes_detectees}x{nombre_colonnes_detectees}) lors du remplissage. Donnée ignorée.")
         
@@ -159,7 +154,7 @@ def afficher_matrice_interactive(donnees_matrice):
     plt.subplots_adjust(bottom=0.25) # Espace pour le curseur
 
     temps_initial = 0
-    # `origin='lower'` place (0,0) en bas à gauche. `aspect='auto'` ajuste les proportions.
+
     img_affichee = ax.imshow(donnees_matrice[:, :, temps_initial], cmap='viridis', aspect='auto', origin='lower')
     
     ax.set_xlabel(f"Indice de Colonne (0 à {num_colonnes_mat - 1})")
@@ -181,12 +176,7 @@ def afficher_matrice_interactive(donnees_matrice):
     def mettre_a_jour(val):
         temps_actuel = int(curseur_temps.val)
         img_affichee.set_data(donnees_matrice[:, :, temps_actuel])
-        # Optionnel: Mettre à jour les limites de couleur pour chaque slice si désiré
-        # vmin, vmax = np.min(donnees_matrice[:, :, temps_actuel]), np.max(donnees_matrice[:, :, temps_actuel])
-        # if vmin < vmax: # Évite l'erreur si toutes les valeurs sont identiques
-        #    img_affichee.set_clim(vmin=vmin, vmax=vmax)
-        # else: # Gère le cas où toutes les valeurs sont identiques
-        #    img_affichee.set_clim(vmin=vmin - 0.5, vmax=vmax + 0.5) # ou une autre logique appropriée
+
 
         ax.set_title(f"Matrice ({num_lignes_mat}x{num_colonnes_mat}) au pas de temps : {temps_actuel}")
         fig.canvas.draw_idle() # Redessine la figure
@@ -207,7 +197,8 @@ if __name__ == "__main__":
         if matrice_3d.size > 0 : # Vérifie si la matrice contient des éléments
             print(f"Affichage de la matrice de dimensions : {matrice_3d.shape}")
             afficher_matrice_interactive(matrice_3d)
-        else: # matrice_3d n'est pas None mais est vide (ex: np.zeros((0,0,811)))
+        else: 
             print("L'analyse a produit une matrice vide (taille 0). Vérifiez les messages précédents et le fichier de données.")
     else:
+
         print("Impossible d'afficher la matrice car les données n'ont pas pu être chargées ou traitées correctement.")
