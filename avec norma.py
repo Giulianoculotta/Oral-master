@@ -2,11 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def charger_matrice_depuis_fichier_texte_v2(chemin_fichier):
-    """
-    Charge une matrice de données à partir d'un fichier texte spécifique.
-    La fonction recherche un en-tête précis, puis parse les coordonnées de l'axe X
-    et les données de la matrice qui suivent.
-    """
+
     nom_en_tete_specifique = "______Output Data (col: scan axis, row: index axis)______"
     try:
         with open(chemin_fichier, 'r') as f:
@@ -287,3 +283,4 @@ for i in range(1, 4):
         matrices_orig[partie_key],
         matrices_norm[partie_key]
     )
+
